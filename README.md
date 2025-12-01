@@ -4,7 +4,7 @@
 **Agents Intensive - Capstone Project Submission**  
 **Track:** Concierge Agents  
 **Goal:** Automate content strategy and drive execution consistency for solo creators.
-
+<img width="1919" height="825" alt="Screenshot 2025-12-01 194844" src="https://github.com/user-attachments/assets/c4d28556-df63-45ed-aa76-66809c95f297" />
 ---
 
 ## Table of Contents
@@ -75,6 +75,12 @@ The architecture is built around a sequence of specialized agents that share a c
 ## 4. Key Agent Concepts Implemented
 
 This project demonstrates **five key concepts** from the Agents Intensive Course, exceeding the three-concept requirement.
+<img width="1919" height="846" alt="Screenshot 2025-12-01 194834" src="https://github.com/user-attachments/assets/15ee4025-acff-4c27-918f-1ad696d4442e" />
+<img width="1916" height="826" alt="Screenshot 2025-12-01 194808" src="https://github.com/user-attachments/assets/08507bd2-3e3b-4fcf-9717-8d167665d02b" />
+<img width="1913" height="839" alt="Screenshot 2025-12-01 194718" src="https://github.com/user-attachments/assets/c79dc317-f0a8-4b9d-9109-81bf25f41462" />
+<img width="1916" height="831" alt="Screenshot 2025-12-01 194552" src="https://github.com/user-attachments/assets/9f0ed9e0-3645-4b0d-923b-6fd123badab9" />
+<img width="1900" height="839" alt="Screenshot 2025-12-01 194542" src="https://github.com/user-attachments/assets/87b4c5aa-c2b4-4ce6-81d2-928f66c5e3f2" />
+<img width="621" height="619" alt="Screenshot 2025-12-01 192744" src="https://github.com/user-attachments/assets/07c4666d-23eb-4d20-9d7f-951ce0c6e4f3" />![Uploading Screenshot 2025-12-01 194808.png…]()
 
 ### A. Multi-Agent System & Sequential Agents
 
